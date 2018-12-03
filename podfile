@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target 'TipScope' do
+pod 'Masonry', '~>1.0.0'
+end
